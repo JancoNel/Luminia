@@ -15,3 +15,5 @@
 You can join the discord server here: [Discord server](discord.gg/fGWrSxDFas)
 
 You can join the honry hackers whatsapp group here: [Whatsapp invite](https://chat.whatsapp.com/HBYPFeUQ20uLTIDNXDQYKb)
+
+By self hosting this bot you agree to the EULA
