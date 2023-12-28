@@ -23,5 +23,3 @@ By self-hosting Luminia Bot, you agree to abide by the [End User License Agreeme
 ## Contribute to the Magic 🌈:
 
 Luminia Bot thrives on the collective magic of its community! 🌟 We welcome contributors and value your ideas and skills. If you're a wizard with code or have enchanting ideas to share, consider contributing to Luminia Bot. We particularly favor contributors when selecting new developers to join our magical team!
-
-Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started. Let's make Luminia even more enchanting together! ✨
