@@ -10,7 +10,7 @@
 #Whatsapp
 -The whatsapp version (original) can be found by messenging +27 66 215 6865 on whatsapp with also a shit ton of commands
 
-Official media:
+#Official media:
 
 You can join the discord server here: [Discord server](discord.gg/fGWrSxDFas)
 
