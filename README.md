@@ -25,6 +25,6 @@ By self-hosting Luminia Bot, you agree to abide by the [End User License Agreeme
 Luminia Bot thrives on the collective magic of its community! 🌟 We welcome contributors and value your ideas and skills. If you're a wizard with code or have enchanting ideas to share, consider contributing to Luminia Bot. We particularly favor contributors when selecting new developers to join our magical team!
 
 
-#IMPORTANT!!!!
--Luminia bot is down at thge moment and wont come back until middle January
+IMPORTANT!!!!
+-Luminia bot is down at the moment and wont come back until middle January
 -The source is not ready yet , I will upload it once it is
